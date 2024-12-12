@@ -4,15 +4,13 @@ The Coffee Sales Project is an in-depth analysis of sales data, carefully struct
 # Raw Data Overview:
 0. First look of data : the raw dataset of order sheet before any changes.
 
-1. Order Sheet: The initial unprocessed dataset containing customer orders, including product names, quantities, and sales amounts.
+1. Order Sheet: Central repository of detailed customer orders, including product names, quantities, and sales amounts.
 
-# Key Worksheets:
-Orders Sheet:
 
-Acts as the central hub for detailed customer order information.
 Key Functions: XLOOKUP & INDEX/MATCH were used to fill missing order details (e.g., product names) by cross-referencing related sheets.
 
 Data Enhancements: Conditional formatting was applied to highlight critical data points, such as high-value orders and missing values.
+
 
 3. Products Sheet: Contains the product catalog with essential details, such as product ID, coffee type, roast style, size, unit price, and profit margins.
 
