@@ -3,6 +3,7 @@ The Coffee Sales Project is an in-depth analysis of sales data, carefully struct
 
 # Raw Data Overview:
 First look of data : the raw dataset of order sheet before any changes.
+
 Order Sheet: The initial unprocessed dataset containing customer orders, including product names, quantities, and sales amounts.
 
 # Key Worksheets:
